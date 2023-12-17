@@ -1,0 +1,3 @@
+/home/k/Linux_Learn/Database/cmake-build-debug/CMakeFiles/Database.dir
+/home/k/Linux_Learn/Database/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/k/Linux_Learn/Database/cmake-build-debug/CMakeFiles/rebuild_cache.dir
